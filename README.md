@@ -23,6 +23,21 @@
 
 2026.04.14
 
+
+# 使用教程
+1 安装python
+
+2 安装必要的库文件
+
+``` pip install requests beautifulsoup4 tqdm pillow``` 
+
+3
+使用cmd或powershell 运行py文件
+
+```python Get-Website-ICO-to-Desktop V1.1.py ```
+
+
+
 ---
 # Design Inspiration and Core Pain Points 
 

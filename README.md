@@ -1,6 +1,6 @@
 # Get-Website-ICO-to-Desktop
 
-# 设计灵感与核心痛点
+# 1设计灵感与核心痛点
 
 **再见了，chrome默认图标！**
 
@@ -21,7 +21,7 @@
 
 把网站图标优雅地搬到桌面，从未如此简单。
 
-# 处理流程图
+# 2处理流程图
 <img width="2816" height="1536" alt="Gemini_Generated_Image_9g9f4l9g9f4l9g9f" src="https://github.com/user-attachments/assets/0f7a903b-c573-4e2f-9c94-68952473fb66" />
 
 
@@ -29,7 +29,7 @@
 **2026.04.14**
 
 
-# 使用教程
+# 3使用教程
 1 安装python3
 
 2 安装必要的库文件
@@ -44,7 +44,7 @@
 
 
 
-# Todo
+# 4Todo
 
 - [ ]  面对电脑小白用户，实现封装自动化
 

@@ -1,4 +1,3 @@
-# Get-Website-ICO-to-Desktop
 
 # 1设计灵感与核心痛点
 
@@ -22,7 +21,8 @@
 把网站图标优雅地搬到桌面，从未如此简单。
 
 # 2处理流程图
-<img width="2816" height="1536" alt="Gemini_Generated_Image_9g9f4l9g9f4l9g9f" src="https://github.com/user-attachments/assets/0f7a903b-c573-4e2f-9c94-68952473fb66" />
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_b0ohj5b0ohj5b0oh" src="https://github.com/user-attachments/assets/4532814b-b29e-422f-bfbe-30a657f762d6" />
 
 
 
@@ -68,4 +68,5 @@ Whether it is dealing with strict 403 anti-crawler blocking, complex cloud stora
 More importantly, at the core, it will forcibly restructure and convert all the captured image data at the bottom layer into **100% pure Windows-native .ico format**. 
 Just enter a website address, and we will immediately provide you with a high-definition, authentic and fully compatible exclusive desktop icon that is perfectly compatible with the system. 
 Easily move the website icon to the desktop, and it's never been this simple.
+
 2026.04.14

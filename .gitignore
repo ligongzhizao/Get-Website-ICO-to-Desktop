@@ -1,0 +1,7 @@
+*.cmd
+*.exe
+
+.venv
+*.build/**
+.vscode/**
+*.dist/**

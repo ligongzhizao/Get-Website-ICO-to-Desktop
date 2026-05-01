@@ -20,7 +20,7 @@ def choose_best_icon(soup: BeautifulSoup) -> str | None:
     """从 BeautifulSoup 解析结果中挑选最高质量的图标 URL。
 
     优先级：apple-touch-icon (180x180 > 其他) > 明确 sizes 的 icon > 普通 icon。
-    返回绝对 URL，未找到则返回 None。
+    返回选中的原始 href 值（可能是相对 URL），未找到则返回 None。
     """
     candidates: list[tuple[int, str]] = []  # [(priority, href), ...]
 

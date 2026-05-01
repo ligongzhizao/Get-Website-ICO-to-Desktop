@@ -30,7 +30,7 @@
 
 如果你使用其他操作系统或希望直接运行源码：
 
-1. 确保已安装 Python 3.10 及以上版本。
+1. 确保已安装 Python 3.10 - 3.12 之间的版本。
 2. 运行 `pip install -r requirements.txt` 安装依赖库。
 3. 执行主程序：`python main.py`。
 
@@ -76,7 +76,7 @@ This project automates the entire process:
 
 If you are using a non-Windows OS or prefer to run the source code:
 
-1. Ensure Python 3.10 or higher is installed.
+1. Ensure Python 3.10 - 3.12 is installed.
 2. Run `pip install -r requirements.txt` to install dependencies.
 3. Run the script: `python main.py`.
 
